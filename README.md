@@ -32,3 +32,7 @@ I developed a web app for an e-commerce company to analyze customer emotions reg
     ```bash
     pip install -r requirements.txt
     ```
+## Acknowledgments
+
+* IBM x SkillsNetwork
+* [@othneildrew] (https://github.com/othneildrew) for the readMe template 
