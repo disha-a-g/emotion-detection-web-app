@@ -1,4 +1,4 @@
-# Emotion Detection Wep Application (NLP) 
+# Emotion Detection Web Application (NLP) 
 
 
 ## About The Project
